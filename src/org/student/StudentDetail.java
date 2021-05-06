@@ -29,5 +29,8 @@ public static void main(String[] args) {
 	String next4 = a.next();
 	System.out.println("City is "+next4);
 	
+	System.out.println("Enter Ex Girl name");
+	String next5 = a.next();
+	System.out.println("Ex girl name is"+next5);
 }
 }
