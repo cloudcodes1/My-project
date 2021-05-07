@@ -30,11 +30,21 @@ public static void main(String[] args) {
 	System.out.println("Rushan");
 	System.out.println("Rushan");
 	System.out.println("Rushan");
+
   
 	System.out.println("Jegdish");
 	System.out.println("Jegdish");
 	System.out.println("Jegdish");
 	System.out.println("Jegdish");
+
+
+	
+	System.out.println("Karthi");
+	System.out.println("Karthi");
+	System.out.println("Karthi");
+	System.out.println("Karthi");
+	System.out.println("Karthi");
+	
 
 	}
 }
