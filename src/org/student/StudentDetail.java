@@ -32,5 +32,18 @@ public static void main(String[] args) {
 	System.out.println("Enter Ex Girl name");
 	String next5 = a.next();
 	System.out.println("Ex girl name is"+next5);
+	
+	System.out.println("passport No");
+	String next6 = a.next();
+	System.out.println("PassPort No is "+next6);
+	
+	System.out.println("Aadhar No");
+	String next7 = a.next();
+	System.out.println("Aadhar No is "+next7);
+	
+	System.out.println("Pan card No");
+	String next8 = a.next();
+	System.out.println("Pan Card No is"+next8);
+	
 }
 }
