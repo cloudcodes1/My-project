@@ -11,12 +11,15 @@ public static void main(String[] args) {
 	byte mark2=89;
 	System.out.println("Mark2: "+mark2);
 	byte mark3=89;
-	System.out.println("Mark2: "+mark3);
+	System.out.println("Mark3: "+mark3);
 	byte mark4=89;
-	System.out.println("Mark2: "+mark4);
-	int tot=mark1+mark2+mark3+mark4;
+	System.out.println("Mark4: "+mark4);
+	int mark5 = 90;
+	System.out.println("mark5:" +mark5);
+	int tot=mark1+mark2+mark3+mark4+mark5;
 	System.out.println("Total: "+tot);
-	int avg=tot/4;
+	int avg=tot/5;
 	System.out.println("Average: "+avg);
+	
 }
 }
