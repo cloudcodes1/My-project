@@ -32,5 +32,11 @@ public static void main(String[] args) {
 	System.out.println("Enter Ex Girl name");
 	String next5 = a.next();
 	System.out.println("Ex girl name is"+next5);
+	
+	System.out.println("Student Address");
+	String next6 = a.next();
+	System.out.println("Address is\t"+next6);
+	
+	
 }
 }
