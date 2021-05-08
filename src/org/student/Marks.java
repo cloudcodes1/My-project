@@ -18,5 +18,13 @@ public static void main(String[] args) {
 	System.out.println("Total: "+tot);
 	int avg=tot/4;
 	System.out.println("Average: "+avg);
+	System.out.println("r");
+	System.out.println("r");
+	System.out.println("r");
+	System.out.println("r");
+	System.out.println("r");
+	
+	
+	
 }
 }
